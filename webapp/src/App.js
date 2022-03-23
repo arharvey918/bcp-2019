@@ -39,6 +39,7 @@ class PassageView extends Component {
           handleChange={this.handleChange} />
 
         <PassagePlayer passage={this.state.passage} id={this.state.id} />
+        <PassageText passage={this.state.passage} id={this.state.id} />
       </div>
     )
   }
@@ -77,6 +78,84 @@ class PassagePlayer extends Component {
         </iframe>
       </div>
     )
+  }
+}
+
+class PassageText extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      error: null,
+      isLoaded: false,
+      passages: [],
+      cachedFetches: new Map()
+    };
+  }
+
+  componentDidMount() {
+    this.fetchData()
+  }
+
+  componentDidUpdate(prevProps) {
+    if (this.props.passage !== prevProps.passage) {
+      console.log("request: " + this.props.passage)
+      this.fetchData()
+    }
+  }
+
+  fetchData() {
+    if (this.state.cachedFetches.has(this.props.passage)) {
+      console.log(this.props.passage + " found in cache")
+      let passageToSet = this.state.cachedFetches.get(this.props.passage)
+      this.setState({
+        isLoaded: true,
+        passages: passageToSet
+      });
+    }
+    else {
+      const url = `http://192.168.1.177:8000/passage/text?q=${encodeURIComponent(this.props.passage)}`
+      console.log("fetch " + url)
+      fetch(url)
+        .then(res => res.json())
+        .then(
+          (result) => {
+            let fetches = this.state.cachedFetches
+            fetches.set(this.props.passage, result.passages)
+
+            this.setState({
+              isLoaded: true,
+              passages: result.passages,
+              cachedFetches: fetches
+            });
+          },
+          // Note: it's important to handle errors here
+          // instead of a catch() block so that we don't swallow
+          // exceptions from actual bugs in components.
+          (error) => {
+            this.setState({
+              isLoaded: true,
+              error
+            });
+          }
+        )
+    }
+  }
+
+  render() {
+    const { error, isLoaded, passages } = this.state;
+    if (error) {
+      return <div>Error: {error.message}</div>;
+    } else if (!isLoaded) {
+      return <div>loading passage text...</div>;
+    } else {
+      return (
+        <div>
+          {passages.map((passageHTML, index) => (
+            <p className="esv-text" key={index} dangerouslySetInnerHTML={ {__html: passageHTML} }/>
+          ))}
+        </div>
+      );
+    }
   }
 }
 
@@ -132,7 +211,7 @@ class Example extends Component {
 class App extends Component {
   render() {
     return (
-      <div className="container">
+      <div className="container-fluid">
         <div className="App">
           <Example />
         </div>
