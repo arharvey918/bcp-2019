@@ -113,7 +113,7 @@ class PassageText extends Component {
       });
     }
     else {
-      const url = `http://192.168.1.177:8000/passage/text?q=${encodeURIComponent(this.props.passage)}`
+      const url = `http://192.168.1.51:8000/passage/text?q=${encodeURIComponent(this.props.passage)}`
       console.log("fetch " + url)
       fetch(url)
         .then(res => res.json())
@@ -211,7 +211,7 @@ class Example extends Component {
 class App extends Component {
   render() {
     return (
-      <div className="container-fluid">
+      <div className="container">
         <div className="App">
           <Example />
         </div>

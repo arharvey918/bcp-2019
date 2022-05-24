@@ -19,6 +19,7 @@
 
 .passage-viewer {
   margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 .player {
@@ -82,7 +83,7 @@ footer {
 .esv-text p{
     margin-bottom:0;
     font-size:108%;
-    line-height:130%;
+    line-height:1.6;
 }
 .esv-text h2#top{
 	border:none;
