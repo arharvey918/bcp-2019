@@ -1,0 +1,6 @@
+*.css
+*.svg
+*.pnp*
+
+.eslintrc.js
+*.config.js
