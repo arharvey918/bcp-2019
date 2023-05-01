@@ -3,18 +3,18 @@
 set -euxo pipefail
 
 # TODO: copy .gitconfig and SSH key
-if [[ -f /home/user/.gitconfig ]]; then
-  cp /home/user/.gitconfig /root/.gitconfig
+if [[ -f $HOMEDIR/.gitconfig ]]; then
+  cp $HOMEDIR/.gitconfig /home/node/.gitconfig
   git config --global core.pager "diff-so-fancy | less --tabs=4 -RFX"
 fi
 
-if [[ -d /home/user/.ssh ]]; then
-  cp -r /home/user/.ssh /root/.ssh
-  chmod 700 /root/.ssh
-  chmod 600 /root/.ssh/*
+if [[ -d $HOMEDIR/.ssh ]]; then
+  cp -r $HOMEDIR/.ssh /home/node/.ssh
+  chmod 700 /home/node/.ssh
+  chmod 600 /home/node/.ssh/*
 
   eval $(ssh-agent)
-  for possiblekey in /root/.ssh/id_*; do
+  for possiblekey in /home/node/.ssh/id_*; do
     if grep -q PRIVATE "$possiblekey"; then
       ssh-add "$possiblekey"
     fi

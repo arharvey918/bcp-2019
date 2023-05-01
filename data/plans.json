@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "id": "bcp-mp-lesson-1",
+            "uri": "bcp-mp-lesson-1.json"
+        },
+        {
+            "id": "bcp-mp-lesson-2",
+            "uri": "bcp-mp-lesson-2.json"
+        },
+        {
+            "id": "bcp-psalter-120-day",
+            "uri": "bcp-psalter-120-day.json"
+        },
+        {
+            "id": "new-morning-mercies",
+            "uri": "new-morning-mercies.json"
+        }
+    ]
+}

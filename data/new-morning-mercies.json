@@ -1,0 +1,2203 @@
+{
+    "id": "new-morning-mercies",
+    "name": "New Morning Mercies",
+    "description": "Further study and encouragement readings from Paul David Tripp's devotional, New Morning Mercies.",
+    "readings": [
+        {
+            "id": "01-01",
+            "month": 1,
+            "day": 1,
+            "passage": "Psalm 115"
+        },
+        {
+            "id": "01-02",
+            "month": 1,
+            "day": 2,
+            "passage": "2 Corinthians 5:1-10"
+        },
+        {
+            "id": "01-03",
+            "month": 1,
+            "day": 3,
+            "passage": "Luke 12:13-21"
+        },
+        {
+            "id": "01-04",
+            "month": 1,
+            "day": 4,
+            "passage": "Isaiah 40:12-31"
+        },
+        {
+            "id": "01-05",
+            "month": 1,
+            "day": 5,
+            "passage": "Galatians 3:1-14"
+        },
+        {
+            "id": "01-06",
+            "month": 1,
+            "day": 6,
+            "passage": "1 Timothy 6:6-10"
+        },
+        {
+            "id": "01-07",
+            "month": 1,
+            "day": 7,
+            "passage": "Romans 8:1-17"
+        },
+        {
+            "id": "01-08",
+            "month": 1,
+            "day": 8,
+            "passage": "Mark 6:30-52"
+        },
+        {
+            "id": "01-09",
+            "month": 1,
+            "day": 9,
+            "passage": "Isaiah 51:12-16"
+        },
+        {
+            "id": "01-10",
+            "month": 1,
+            "day": 10,
+            "passage": "Psalm 107"
+        },
+        {
+            "id": "01-11",
+            "month": 1,
+            "day": 11,
+            "passage": "2 Corinthians 6:3-10"
+        },
+        {
+            "id": "01-12",
+            "month": 1,
+            "day": 12,
+            "passage": "1 Timothy 6:11-16"
+        },
+        {
+            "id": "01-13",
+            "month": 1,
+            "day": 13,
+            "passage": "1 Corinthians 1:4-9"
+        },
+        {
+            "id": "01-14",
+            "month": 1,
+            "day": 14,
+            "passage": "Luke 12:22-34"
+        },
+        {
+            "id": "01-15",
+            "month": 1,
+            "day": 15,
+            "passage": "Psalm 118"
+        },
+        {
+            "id": "01-16",
+            "month": 1,
+            "day": 16,
+            "passage": "Ephesians 2:1-10"
+        },
+        {
+            "id": "01-17",
+            "month": 1,
+            "day": 17,
+            "passage": "Acts 17:22-28"
+        },
+        {
+            "id": "01-18",
+            "month": 1,
+            "day": 18,
+            "passage": "Hebrews 12:7-17"
+        },
+        {
+            "id": "01-19",
+            "month": 1,
+            "day": 19,
+            "passage": "Ephesians 3:14-21"
+        },
+        {
+            "id": "01-20",
+            "month": 1,
+            "day": 20,
+            "passage": "Haggai 1:12-15"
+        },
+        {
+            "id": "01-21",
+            "month": 1,
+            "day": 21,
+            "passage": "1 Corinthians 15:12-34"
+        },
+        {
+            "id": "01-22",
+            "month": 1,
+            "day": 22,
+            "passage": "Ezekiel 20"
+        },
+        {
+            "id": "01-23",
+            "month": 1,
+            "day": 23,
+            "passage": "Colossians 1:15-29"
+        },
+        {
+            "id": "01-24",
+            "month": 1,
+            "day": 24,
+            "passage": "Matthew 6:19-24"
+        },
+        {
+            "id": "01-25",
+            "month": 1,
+            "day": 25,
+            "passage": "Ephesians 4:1-16"
+        },
+        {
+            "id": "01-26",
+            "month": 1,
+            "day": 26,
+            "passage": "Psalm 103"
+        },
+        {
+            "id": "01-27",
+            "month": 1,
+            "day": 27,
+            "passage": "Romans 5:1-11"
+        },
+        {
+            "id": "01-28",
+            "month": 1,
+            "day": 28,
+            "passage": "Luke 22:39-48"
+        },
+        {
+            "id": "01-29",
+            "month": 1,
+            "day": 29,
+            "passage": "Jeremiah 10"
+        },
+        {
+            "id": "01-30",
+            "month": 1,
+            "day": 30,
+            "passage": "Galatians 3:15-29"
+        },
+        {
+            "id": "01-31",
+            "month": 1,
+            "day": 31,
+            "passage": "Ephesians 1:3-14"
+        },
+        {
+            "id": "02-01",
+            "month": 2,
+            "day": 1,
+            "passage": "James 1:2-11"
+        },
+        {
+            "id": "02-02",
+            "month": 2,
+            "day": 2,
+            "passage": "1 Corinthians 10:1-13"
+        },
+        {
+            "id": "02-03",
+            "month": 2,
+            "day": 3,
+            "passage": "2 Peter 1:3-11"
+        },
+        {
+            "id": "02-04",
+            "month": 2,
+            "day": 4,
+            "passage": "Psalm 42"
+        },
+        {
+            "id": "02-05",
+            "month": 2,
+            "day": 5,
+            "passage": "1 Corinthians 15:50-58"
+        },
+        {
+            "id": "02-06",
+            "month": 2,
+            "day": 6,
+            "passage": "Romans 8:18-39"
+        },
+        {
+            "id": "02-07",
+            "month": 2,
+            "day": 7,
+            "passage": "Romans 3:9-20"
+        },
+        {
+            "id": "02-08",
+            "month": 2,
+            "day": 8,
+            "passage": "Jeremiah 29:1-14"
+        },
+        {
+            "id": "02-09",
+            "month": 2,
+            "day": 9,
+            "passage": "Psalm 73"
+        },
+        {
+            "id": "02-10",
+            "month": 2,
+            "day": 10,
+            "passage": "2 Corinthians 12:1-10"
+        },
+        {
+            "id": "02-11",
+            "month": 2,
+            "day": 11,
+            "passage": "2 Corinthians 4:7-18"
+        },
+        {
+            "id": "02-12",
+            "month": 2,
+            "day": 12,
+            "passage": "Hebrews 11"
+        },
+        {
+            "id": "02-13",
+            "month": 2,
+            "day": 13,
+            "passage": "Psalm 14"
+        },
+        {
+            "id": "02-14",
+            "month": 2,
+            "day": 14,
+            "passage": "John 1:1-18"
+        },
+        {
+            "id": "02-15",
+            "month": 2,
+            "day": 15,
+            "passage": "Genesis 3"
+        },
+        {
+            "id": "02-16",
+            "month": 2,
+            "day": 16,
+            "passage": "Ephesians 2:11-22"
+        },
+        {
+            "id": "02-17",
+            "month": 2,
+            "day": 17,
+            "passage": "Psalm 27"
+        },
+        {
+            "id": "02-18",
+            "month": 2,
+            "day": 18,
+            "passage": "Psalm 139"
+        },
+        {
+            "id": "02-19",
+            "month": 2,
+            "day": 19,
+            "passage": "James 1:12-18"
+        },
+        {
+            "id": "02-20",
+            "month": 2,
+            "day": 20,
+            "passage": "Psalm 95"
+        },
+        {
+            "id": "02-21",
+            "month": 2,
+            "day": 21,
+            "passage": "Isaiah 42"
+        },
+        {
+            "id": "02-22",
+            "month": 2,
+            "day": 22,
+            "passage": "James 3:13-18"
+        },
+        {
+            "id": "02-23",
+            "month": 2,
+            "day": 23,
+            "passage": "Romans 5:12-21"
+        },
+        {
+            "id": "02-24",
+            "month": 2,
+            "day": 24,
+            "passage": "Psalm 32"
+        },
+        {
+            "id": "02-25",
+            "month": 2,
+            "day": 25,
+            "passage": "Matthew 6:25-34"
+        },
+        {
+            "id": "02-26",
+            "month": 2,
+            "day": 26,
+            "passage": "1 Samuel 17"
+        },
+        {
+            "id": "02-27",
+            "month": 2,
+            "day": 27,
+            "passage": "Psalm 19"
+        },
+        {
+            "id": "02-28",
+            "month": 2,
+            "day": 28,
+            "passage": "1 Corinthians 13:4-13"
+        },
+        {
+            "id": "02-29",
+            "month": 2,
+            "day": 29,
+            "passage": "1 Peter 3:18-22"
+        },
+        {
+            "id": "03-01",
+            "month": 3,
+            "day": 1,
+            "passage": "Luke 6:27-36; Matthew 18:21-35"
+        },
+        {
+            "id": "03-02",
+            "month": 3,
+            "day": 2,
+            "passage": "Romans 4"
+        },
+        {
+            "id": "03-03",
+            "month": 3,
+            "day": 3,
+            "passage": "Luke 11:1-13"
+        },
+        {
+            "id": "03-04",
+            "month": 3,
+            "day": 4,
+            "passage": "Psalm 38"
+        },
+        {
+            "id": "03-05",
+            "month": 3,
+            "day": 5,
+            "passage": "Romans 8:31-39"
+        },
+        {
+            "id": "03-06",
+            "month": 3,
+            "day": 6,
+            "passage": "Hebrews 4:14-16"
+        },
+        {
+            "id": "03-07",
+            "month": 3,
+            "day": 7,
+            "passage": "James 4:1-10"
+        },
+        {
+            "id": "03-08",
+            "month": 3,
+            "day": 8,
+            "passage": "Psalm 66"
+        },
+        {
+            "id": "03-09",
+            "month": 3,
+            "day": 9,
+            "passage": "Isaiah 55"
+        },
+        {
+            "id": "03-10",
+            "month": 3,
+            "day": 10,
+            "passage": "Romans 3:21-31"
+        },
+        {
+            "id": "03-11",
+            "month": 3,
+            "day": 11,
+            "passage": "2 Corinthians 4"
+        },
+        {
+            "id": "03-12",
+            "month": 3,
+            "day": 12,
+            "passage": "Genesis 1-3"
+        },
+        {
+            "id": "03-13",
+            "month": 3,
+            "day": 13,
+            "passage": "Psalm 97"
+        },
+        {
+            "id": "03-14",
+            "month": 3,
+            "day": 14,
+            "passage": "Hebrews 10:19-25"
+        },
+        {
+            "id": "03-15",
+            "month": 3,
+            "day": 15,
+            "passage": "Job 38:1-42:46"
+        },
+        {
+            "id": "03-16",
+            "month": 3,
+            "day": 16,
+            "passage": "Micah 7"
+        },
+        {
+            "id": "03-17",
+            "month": 3,
+            "day": 17,
+            "passage": "Psalm 145"
+        },
+        {
+            "id": "03-18",
+            "month": 3,
+            "day": 18,
+            "passage": "Genesis 6:1-8"
+        },
+        {
+            "id": "03-19",
+            "month": 3,
+            "day": 19,
+            "passage": "1 Corinthians 1:26-31"
+        },
+        {
+            "id": "03-20",
+            "month": 3,
+            "day": 20,
+            "passage": "Job 5:17-27"
+        },
+        {
+            "id": "03-21",
+            "month": 3,
+            "day": 21,
+            "passage": "Colossians 2"
+        },
+        {
+            "id": "03-22",
+            "month": 3,
+            "day": 22,
+            "passage": "Psalm 119:1-88"
+        },
+        {
+            "id": "03-23",
+            "month": 3,
+            "day": 23,
+            "passage": "Jeremiah 32:16-27"
+        },
+        {
+            "id": "03-24",
+            "month": 3,
+            "day": 24,
+            "passage": "Joel 2:21-27"
+        },
+        {
+            "id": "03-25",
+            "month": 3,
+            "day": 25,
+            "passage": "Psalm 104"
+        },
+        {
+            "id": "03-26",
+            "month": 3,
+            "day": 26,
+            "passage": "Isaiah 40"
+        },
+        {
+            "id": "03-27",
+            "month": 3,
+            "day": 27,
+            "passage": "Habakkuk 3:17-19"
+        },
+        {
+            "id": "03-28",
+            "month": 3,
+            "day": 28,
+            "passage": "Deuteronomy 6-8"
+        },
+        {
+            "id": "03-29",
+            "month": 3,
+            "day": 29,
+            "passage": "1 Peter 1:3-12"
+        },
+        {
+            "id": "03-30",
+            "month": 3,
+            "day": 30,
+            "passage": "Galatians 6:1-10"
+        },
+        {
+            "id": "03-31",
+            "month": 3,
+            "day": 31,
+            "passage": "Acts 2:14-36"
+        },
+        {
+            "id": "04-01",
+            "month": 4,
+            "day": 1,
+            "passage": "1 Corinthians 15:1-11"
+        },
+        {
+            "id": "04-02",
+            "month": 4,
+            "day": 2,
+            "passage": "Matthew 6:5-15"
+        },
+        {
+            "id": "04-03",
+            "month": 4,
+            "day": 3,
+            "passage": "Psalm 116"
+        },
+        {
+            "id": "04-04",
+            "month": 4,
+            "day": 4,
+            "passage": "Isaiah 6"
+        },
+        {
+            "id": "04-05",
+            "month": 4,
+            "day": 5,
+            "passage": "1 John 2:1-17"
+        },
+        {
+            "id": "04-06",
+            "month": 4,
+            "day": 6,
+            "passage": "1 Peter 5:16-11"
+        },
+        {
+            "id": "04-07",
+            "month": 4,
+            "day": 7,
+            "passage": "1 Corinthians 1:18-25"
+        },
+        {
+            "id": "04-08",
+            "month": 4,
+            "day": 8,
+            "passage": "John 6"
+        },
+        {
+            "id": "04-09",
+            "month": 4,
+            "day": 9,
+            "passage": "Ephesians 6:10-20"
+        },
+        {
+            "id": "04-10",
+            "month": 4,
+            "day": 10,
+            "passage": "James 2:14-26"
+        },
+        {
+            "id": "04-11",
+            "month": 4,
+            "day": 11,
+            "passage": "Psalm 98"
+        },
+        {
+            "id": "04-12",
+            "month": 4,
+            "day": 12,
+            "passage": "1 John 3:1-10"
+        },
+        {
+            "id": "04-13",
+            "month": 4,
+            "day": 13,
+            "passage": "John 5:19-24"
+        },
+        {
+            "id": "04-14",
+            "month": 4,
+            "day": 14,
+            "passage": "Philippians 4:10-20"
+        },
+        {
+            "id": "04-15",
+            "month": 4,
+            "day": 15,
+            "passage": "1 Corinthians 12"
+        },
+        {
+            "id": "04-16",
+            "month": 4,
+            "day": 16,
+            "passage": "John 4:1-26"
+        },
+        {
+            "id": "04-17",
+            "month": 4,
+            "day": 17,
+            "passage": "Luke 7:1-17"
+        },
+        {
+            "id": "04-18",
+            "month": 4,
+            "day": 18,
+            "passage": "Isaiah 31:1"
+        },
+        {
+            "id": "04-19",
+            "month": 4,
+            "day": 19,
+            "passage": "Philippians 3:12-21"
+        },
+        {
+            "id": "04-20",
+            "month": 4,
+            "day": 20,
+            "passage": "Romans 6:1-14"
+        },
+        {
+            "id": "04-21",
+            "month": 4,
+            "day": 21,
+            "passage": "Romans 9:1-18"
+        },
+        {
+            "id": "04-22",
+            "month": 4,
+            "day": 22,
+            "passage": "1 Peter 4:12-19"
+        },
+        {
+            "id": "04-23",
+            "month": 4,
+            "day": 23,
+            "passage": "Psalm 8"
+        },
+        {
+            "id": "04-24",
+            "month": 4,
+            "day": 24,
+            "passage": "1 Peter 1:13-25"
+        },
+        {
+            "id": "04-25",
+            "month": 4,
+            "day": 25,
+            "passage": "Deuteronomy 1"
+        },
+        {
+            "id": "04-26",
+            "month": 4,
+            "day": 26,
+            "passage": "1 John 1:5-10"
+        },
+        {
+            "id": "04-27",
+            "month": 4,
+            "day": 27,
+            "passage": "1 John 4:10-21"
+        },
+        {
+            "id": "04-28",
+            "month": 4,
+            "day": 28,
+            "passage": "Colossians 1:2-14"
+        },
+        {
+            "id": "04-29",
+            "month": 4,
+            "day": 29,
+            "passage": "Job 40"
+        },
+        {
+            "id": "04-30",
+            "month": 4,
+            "day": 30,
+            "passage": "James 5:13-16"
+        },
+        {
+            "id": "05-01",
+            "month": 5,
+            "day": 1,
+            "passage": "2 Corinthians 5:14-21"
+        },
+        {
+            "id": "05-02",
+            "month": 5,
+            "day": 2,
+            "passage": "2 Corinthians 9"
+        },
+        {
+            "id": "05-03",
+            "month": 5,
+            "day": 3,
+            "passage": "Psalm 89"
+        },
+        {
+            "id": "05-04",
+            "month": 5,
+            "day": 4,
+            "passage": "Psalm 105"
+        },
+        {
+            "id": "05-05",
+            "month": 5,
+            "day": 5,
+            "passage": "Isaiah 48:1-11"
+        },
+        {
+            "id": "05-06",
+            "month": 5,
+            "day": 6,
+            "passage": "Matthew 13:44-50"
+        },
+        {
+            "id": "05-07",
+            "month": 5,
+            "day": 7,
+            "passage": "Isaiah 26"
+        },
+        {
+            "id": "05-08",
+            "month": 5,
+            "day": 8,
+            "passage": "1 Kings 17"
+        },
+        {
+            "id": "05-09",
+            "month": 5,
+            "day": 9,
+            "passage": "Ephesians 4:25-32"
+        },
+        {
+            "id": "05-10",
+            "month": 5,
+            "day": 10,
+            "passage": "Psalm 93"
+        },
+        {
+            "id": "05-11",
+            "month": 5,
+            "day": 11,
+            "passage": "Psalm 14"
+        },
+        {
+            "id": "05-12",
+            "month": 5,
+            "day": 12,
+            "passage": "Romans 1:18-25"
+        },
+        {
+            "id": "05-13",
+            "month": 5,
+            "day": 13,
+            "passage": "1 Thessalonians 4:13-5:11"
+        },
+        {
+            "id": "05-14",
+            "month": 5,
+            "day": 14,
+            "passage": "Hebrews 2:10-18"
+        },
+        {
+            "id": "05-15",
+            "month": 5,
+            "day": 15,
+            "passage": "James 4:13-5:6"
+        },
+        {
+            "id": "05-16",
+            "month": 5,
+            "day": 16,
+            "passage": "Romans 8:18-30"
+        },
+        {
+            "id": "05-17",
+            "month": 5,
+            "day": 17,
+            "passage": "Romans 6:15-23"
+        },
+        {
+            "id": "05-18",
+            "month": 5,
+            "day": 18,
+            "passage": "Luke 18:9-14"
+        },
+        {
+            "id": "05-19",
+            "month": 5,
+            "day": 19,
+            "passage": "Isaiah 29"
+        },
+        {
+            "id": "05-20",
+            "month": 5,
+            "day": 20,
+            "passage": "Hebrews 13:1-6"
+        },
+        {
+            "id": "05-21",
+            "month": 5,
+            "day": 21,
+            "passage": "2 Peter 3:1-13"
+        },
+        {
+            "id": "05-22",
+            "month": 5,
+            "day": 22,
+            "passage": "Matthew 27:32-54"
+        },
+        {
+            "id": "05-23",
+            "month": 5,
+            "day": 23,
+            "passage": "Psalm 34"
+        },
+        {
+            "id": "05-24",
+            "month": 5,
+            "day": 24,
+            "passage": "Psalm 107"
+        },
+        {
+            "id": "05-25",
+            "month": 5,
+            "day": 25,
+            "passage": "Jeremiah 9:23-24"
+        },
+        {
+            "id": "05-26",
+            "month": 5,
+            "day": 26,
+            "passage": "Genesis 22"
+        },
+        {
+            "id": "05-27",
+            "month": 5,
+            "day": 27,
+            "passage": "Isaiah 41:1-20"
+        },
+        {
+            "id": "05-28",
+            "month": 5,
+            "day": 28,
+            "passage": "1 Timothy 1:12-17"
+        },
+        {
+            "id": "05-29",
+            "month": 5,
+            "day": 29,
+            "passage": "John 8:31-38"
+        },
+        {
+            "id": "05-30",
+            "month": 5,
+            "day": 30,
+            "passage": "1 Corinthians 7:21-23"
+        },
+        {
+            "id": "05-31",
+            "month": 5,
+            "day": 31,
+            "passage": "Ecclesiastes 2:1-11"
+        },
+        {
+            "id": "06-01",
+            "month": 6,
+            "day": 1,
+            "passage": "Psalm 51"
+        },
+        {
+            "id": "06-02",
+            "month": 6,
+            "day": 2,
+            "passage": "Matthew 19:16-30"
+        },
+        {
+            "id": "06-03",
+            "month": 6,
+            "day": 3,
+            "passage": "Ephesians 1:15-23"
+        },
+        {
+            "id": "06-04",
+            "month": 6,
+            "day": 4,
+            "passage": "Hebrews 3:12-13"
+        },
+        {
+            "id": "06-05",
+            "month": 6,
+            "day": 5,
+            "passage": "Exodus 34:1-9"
+        },
+        {
+            "id": "06-06",
+            "month": 6,
+            "day": 6,
+            "passage": "Job 1"
+        },
+        {
+            "id": "06-07",
+            "month": 6,
+            "day": 7,
+            "passage": "Ecclesiastes 3"
+        },
+        {
+            "id": "06-08",
+            "month": 6,
+            "day": 8,
+            "passage": "Psalm 122"
+        },
+        {
+            "id": "06-09",
+            "month": 6,
+            "day": 9,
+            "passage": "Galatians 5:16-26"
+        },
+        {
+            "id": "06-10",
+            "month": 6,
+            "day": 10,
+            "passage": "Luke 9:23-36"
+        },
+        {
+            "id": "06-11",
+            "month": 6,
+            "day": 11,
+            "passage": "Mark 7:1-23"
+        },
+        {
+            "id": "06-12",
+            "month": 6,
+            "day": 12,
+            "passage": "Psalm 63"
+        },
+        {
+            "id": "06-13",
+            "month": 6,
+            "day": 13,
+            "passage": "2 Timothy 4:9-18"
+        },
+        {
+            "id": "06-14",
+            "month": 6,
+            "day": 14,
+            "passage": "Psalm 119:89-176"
+        },
+        {
+            "id": "06-15",
+            "month": 6,
+            "day": 15,
+            "passage": "Acts 3:11-26"
+        },
+        {
+            "id": "06-16",
+            "month": 6,
+            "day": 16,
+            "passage": "Romans 7:14-25"
+        },
+        {
+            "id": "06-17",
+            "month": 6,
+            "day": 17,
+            "passage": "2 Corinthians 4:7-18"
+        },
+        {
+            "id": "06-18",
+            "month": 6,
+            "day": 18,
+            "passage": "Titus 2:11-14"
+        },
+        {
+            "id": "06-19",
+            "month": 6,
+            "day": 19,
+            "passage": "Jeremiah 17:5-8"
+        },
+        {
+            "id": "06-20",
+            "month": 6,
+            "day": 20,
+            "passage": "Psalm 33"
+        },
+        {
+            "id": "06-21",
+            "month": 6,
+            "day": 21,
+            "passage": "Hebrews 1"
+        },
+        {
+            "id": "06-22",
+            "month": 6,
+            "day": 22,
+            "passage": "1 Chronicles 16:28-34"
+        },
+        {
+            "id": "06-23",
+            "month": 6,
+            "day": 23,
+            "passage": "Psalm 74"
+        },
+        {
+            "id": "06-24",
+            "month": 6,
+            "day": 24,
+            "passage": "John 10:1-18"
+        },
+        {
+            "id": "06-25",
+            "month": 6,
+            "day": 25,
+            "passage": "Joshua 1"
+        },
+        {
+            "id": "06-26",
+            "month": 6,
+            "day": 26,
+            "passage": "Matthew 23"
+        },
+        {
+            "id": "06-27",
+            "month": 6,
+            "day": 27,
+            "passage": "John 20:24-29"
+        },
+        {
+            "id": "06-28",
+            "month": 6,
+            "day": 28,
+            "passage": "Isaiah 44:1-8"
+        },
+        {
+            "id": "06-29",
+            "month": 6,
+            "day": 29,
+            "passage": "Revelation 21"
+        },
+        {
+            "id": "06-30",
+            "month": 6,
+            "day": 30,
+            "passage": "Psalm 121"
+        },
+        {
+            "id": "07-01",
+            "month": 7,
+            "day": 1,
+            "passage": "Psalm 135"
+        },
+        {
+            "id": "07-02",
+            "month": 7,
+            "day": 2,
+            "passage": "Deuteronomy 9"
+        },
+        {
+            "id": "07-03",
+            "month": 7,
+            "day": 3,
+            "passage": "Isaiah 53"
+        },
+        {
+            "id": "07-04",
+            "month": 7,
+            "day": 4,
+            "passage": "Psalm 91"
+        },
+        {
+            "id": "07-05",
+            "month": 7,
+            "day": 5,
+            "passage": "Exodus 15:1-18"
+        },
+        {
+            "id": "07-06",
+            "month": 7,
+            "day": 6,
+            "passage": "Exodus 6:1-9"
+        },
+        {
+            "id": "07-07",
+            "month": 7,
+            "day": 7,
+            "passage": "Ephesians 2:11-22"
+        },
+        {
+            "id": "07-08",
+            "month": 7,
+            "day": 8,
+            "passage": "Acts 17"
+        },
+        {
+            "id": "07-09",
+            "month": 7,
+            "day": 9,
+            "passage": "1 Samuel 13"
+        },
+        {
+            "id": "07-10",
+            "month": 7,
+            "day": 10,
+            "passage": "1 Corinthians 10:1-13"
+        },
+        {
+            "id": "07-11",
+            "month": 7,
+            "day": 11,
+            "passage": "Daniel 4:28-37"
+        },
+        {
+            "id": "07-12",
+            "month": 7,
+            "day": 12,
+            "passage": "Romans 12"
+        },
+        {
+            "id": "07-13",
+            "month": 7,
+            "day": 13,
+            "passage": "Galatians 4:4-7"
+        },
+        {
+            "id": "07-14",
+            "month": 7,
+            "day": 14,
+            "passage": "Proverbs 2"
+        },
+        {
+            "id": "07-15",
+            "month": 7,
+            "day": 15,
+            "passage": "James 3:13-16"
+        },
+        {
+            "id": "07-16",
+            "month": 7,
+            "day": 16,
+            "passage": "Ephesians 1:3-14"
+        },
+        {
+            "id": "07-17",
+            "month": 7,
+            "day": 17,
+            "passage": "Revelation 2-3"
+        },
+        {
+            "id": "07-18",
+            "month": 7,
+            "day": 18,
+            "passage": "Psalm 35"
+        },
+        {
+            "id": "07-19",
+            "month": 7,
+            "day": 19,
+            "passage": "2 Corinthians 1:3-11"
+        },
+        {
+            "id": "07-20",
+            "month": 7,
+            "day": 20,
+            "passage": "Matthew 15:10-20"
+        },
+        {
+            "id": "07-21",
+            "month": 7,
+            "day": 21,
+            "passage": "Psalm 118"
+        },
+        {
+            "id": "07-22",
+            "month": 7,
+            "day": 22,
+            "passage": "Philippians 4:4-9"
+        },
+        {
+            "id": "07-23",
+            "month": 7,
+            "day": 23,
+            "passage": "Nehemiah 6"
+        },
+        {
+            "id": "07-24",
+            "month": 7,
+            "day": 24,
+            "passage": "Hebrews 5:1-5"
+        },
+        {
+            "id": "07-25",
+            "month": 7,
+            "day": 25,
+            "passage": "Psalm 22"
+        },
+        {
+            "id": "07-26",
+            "month": 7,
+            "day": 26,
+            "passage": "Philippians 4:10-20"
+        },
+        {
+            "id": "07-27",
+            "month": 7,
+            "day": 27,
+            "passage": "Philippians 3:1-11"
+        },
+        {
+            "id": "07-28",
+            "month": 7,
+            "day": 28,
+            "passage": "Matthew 6:1-4"
+        },
+        {
+            "id": "07-29",
+            "month": 7,
+            "day": 29,
+            "passage": "Deuteronomy 10:12-22"
+        },
+        {
+            "id": "07-30",
+            "month": 7,
+            "day": 30,
+            "passage": "Matthew 5:13-16"
+        },
+        {
+            "id": "07-31",
+            "month": 7,
+            "day": 31,
+            "passage": "Matthew 25:31-46"
+        },
+        {
+            "id": "08-01",
+            "month": 8,
+            "day": 1,
+            "passage": "Psalm 40"
+        },
+        {
+            "id": "08-02",
+            "month": 8,
+            "day": 2,
+            "passage": "Ezekiel 34:11-16"
+        },
+        {
+            "id": "08-03",
+            "month": 8,
+            "day": 3,
+            "passage": "Amos 6:1-9"
+        },
+        {
+            "id": "08-04",
+            "month": 8,
+            "day": 4,
+            "passage": "Psalm 86"
+        },
+        {
+            "id": "08-05",
+            "month": 8,
+            "day": 5,
+            "passage": "Proverbs 6:20-23"
+        },
+        {
+            "id": "08-06",
+            "month": 8,
+            "day": 6,
+            "passage": "1 Corinthians 13"
+        },
+        {
+            "id": "08-07",
+            "month": 8,
+            "day": 7,
+            "passage": "James 2:1-13"
+        },
+        {
+            "id": "08-08",
+            "month": 8,
+            "day": 8,
+            "passage": "1 Corinthians 6:1-11"
+        },
+        {
+            "id": "08-09",
+            "month": 8,
+            "day": 9,
+            "passage": "John 13:1-17"
+        },
+        {
+            "id": "08-10",
+            "month": 8,
+            "day": 10,
+            "passage": "Isaiah 40"
+        },
+        {
+            "id": "08-11",
+            "month": 8,
+            "day": 11,
+            "passage": "Deuteronomy 30"
+        },
+        {
+            "id": "08-12",
+            "month": 8,
+            "day": 12,
+            "passage": "Daniel 6"
+        },
+        {
+            "id": "08-13",
+            "month": 8,
+            "day": 13,
+            "passage": "Matthew 18:21-33"
+        },
+        {
+            "id": "08-14",
+            "month": 8,
+            "day": 14,
+            "passage": "Daniel 9:4-19"
+        },
+        {
+            "id": "08-15",
+            "month": 8,
+            "day": 15,
+            "passage": "Psalm 46"
+        },
+        {
+            "id": "08-16",
+            "month": 8,
+            "day": 16,
+            "passage": "Exodus 32"
+        },
+        {
+            "id": "08-17",
+            "month": 8,
+            "day": 17,
+            "passage": "Ephesians 5:22-6:9"
+        },
+        {
+            "id": "08-18",
+            "month": 8,
+            "day": 18,
+            "passage": "1 Corinthians 2:1-5"
+        },
+        {
+            "id": "08-19",
+            "month": 8,
+            "day": 19,
+            "passage": "Ephesians 4:1-16"
+        },
+        {
+            "id": "08-20",
+            "month": 8,
+            "day": 20,
+            "passage": "Romans 13:8-14"
+        },
+        {
+            "id": "08-21",
+            "month": 8,
+            "day": 21,
+            "passage": "Luke 1:67-79"
+        },
+        {
+            "id": "08-22",
+            "month": 8,
+            "day": 22,
+            "passage": "Philippians 1:3-11"
+        },
+        {
+            "id": "08-23",
+            "month": 8,
+            "day": 23,
+            "passage": "Psalm 84"
+        },
+        {
+            "id": "08-24",
+            "month": 8,
+            "day": 24,
+            "passage": "Isaiah 7:10-17; Matthew 1:23"
+        },
+        {
+            "id": "08-25",
+            "month": 8,
+            "day": 25,
+            "passage": "Daniel 3:8-30"
+        },
+        {
+            "id": "08-26",
+            "month": 8,
+            "day": 26,
+            "passage": "Psalm 111"
+        },
+        {
+            "id": "08-27",
+            "month": 8,
+            "day": 27,
+            "passage": "John 15:1-8"
+        },
+        {
+            "id": "08-28",
+            "month": 8,
+            "day": 28,
+            "passage": "Romans 13:1-7"
+        },
+        {
+            "id": "08-29",
+            "month": 8,
+            "day": 29,
+            "passage": "Revelation 19"
+        },
+        {
+            "id": "08-30",
+            "month": 8,
+            "day": 30,
+            "passage": "Ephesians 3:7-8"
+        },
+        {
+            "id": "08-31",
+            "month": 8,
+            "day": 31,
+            "passage": "John 16:1-15"
+        },
+        {
+            "id": "09-01",
+            "month": 9,
+            "day": 1,
+            "passage": "Ephesians 3:14-20"
+        },
+        {
+            "id": "09-02",
+            "month": 9,
+            "day": 2,
+            "passage": "John 14:15-31"
+        },
+        {
+            "id": "09-03",
+            "month": 9,
+            "day": 3,
+            "passage": "Psalm 20"
+        },
+        {
+            "id": "09-04",
+            "month": 9,
+            "day": 4,
+            "passage": "Romans 3:9-20"
+        },
+        {
+            "id": "09-05",
+            "month": 9,
+            "day": 5,
+            "passage": "Isaiah 12"
+        },
+        {
+            "id": "09-06",
+            "month": 9,
+            "day": 6,
+            "passage": "Luke 12:13-21"
+        },
+        {
+            "id": "09-07",
+            "month": 9,
+            "day": 7,
+            "passage": "Acts 20:17-24"
+        },
+        {
+            "id": "09-08",
+            "month": 9,
+            "day": 8,
+            "passage": "2 Kings 22:3-23:25"
+        },
+        {
+            "id": "09-09",
+            "month": 9,
+            "day": 9,
+            "passage": "Matthew 5:38-48"
+        },
+        {
+            "id": "09-10",
+            "month": 9,
+            "day": 10,
+            "passage": "Mark 12:28-34"
+        },
+        {
+            "id": "09-11",
+            "month": 9,
+            "day": 11,
+            "passage": ", Matthew 6:19-24"
+        },
+        {
+            "id": "09-12",
+            "month": 9,
+            "day": 12,
+            "passage": "Psalm 23"
+        },
+        {
+            "id": "09-13",
+            "month": 9,
+            "day": 13,
+            "passage": "Psalm 77"
+        },
+        {
+            "id": "09-14",
+            "month": 9,
+            "day": 14,
+            "passage": "James 4:1-10"
+        },
+        {
+            "id": "09-15",
+            "month": 9,
+            "day": 15,
+            "passage": "Romans 8:31-39"
+        },
+        {
+            "id": "09-16",
+            "month": 9,
+            "day": 16,
+            "passage": "1 John 1"
+        },
+        {
+            "id": "09-17",
+            "month": 9,
+            "day": 17,
+            "passage": "John 14:1-14"
+        },
+        {
+            "id": "09-18",
+            "month": 9,
+            "day": 18,
+            "passage": "2 Corinthians 5:1-10"
+        },
+        {
+            "id": "09-19",
+            "month": 9,
+            "day": 19,
+            "passage": "Colossians 1"
+        },
+        {
+            "id": "09-20",
+            "month": 9,
+            "day": 20,
+            "passage": "Hebrews 4:14-16"
+        },
+        {
+            "id": "09-21",
+            "month": 9,
+            "day": 21,
+            "passage": "Philippians 2:1-18"
+        },
+        {
+            "id": "09-22",
+            "month": 9,
+            "day": 22,
+            "passage": "John 16:32"
+        },
+        {
+            "id": "09-23",
+            "month": 9,
+            "day": 23,
+            "passage": "2 Peter 3:8-9"
+        },
+        {
+            "id": "09-24",
+            "month": 9,
+            "day": 24,
+            "passage": "Luke 15:11-32"
+        },
+        {
+            "id": "09-25",
+            "month": 9,
+            "day": 25,
+            "passage": "Psalm 143"
+        },
+        {
+            "id": "09-26",
+            "month": 9,
+            "day": 26,
+            "passage": "Hebrews 11"
+        },
+        {
+            "id": "09-27",
+            "month": 9,
+            "day": 27,
+            "passage": "Deuteronomy 31:1-8"
+        },
+        {
+            "id": "09-28",
+            "month": 9,
+            "day": 28,
+            "passage": "Genesis 1-3"
+        },
+        {
+            "id": "09-29",
+            "month": 9,
+            "day": 29,
+            "passage": "Hebrews 5:11-6:12"
+        },
+        {
+            "id": "09-30",
+            "month": 9,
+            "day": 30,
+            "passage": "Romans 5:12-21"
+        },
+        {
+            "id": "10-01",
+            "month": 10,
+            "day": 1,
+            "passage": "Judges 2-3"
+        },
+        {
+            "id": "10-02",
+            "month": 10,
+            "day": 2,
+            "passage": "1 John 2:1-17"
+        },
+        {
+            "id": "10-03",
+            "month": 10,
+            "day": 3,
+            "passage": "Psalm 139"
+        },
+        {
+            "id": "10-04",
+            "month": 10,
+            "day": 4,
+            "passage": "Philippians 2:1-13"
+        },
+        {
+            "id": "10-05",
+            "month": 10,
+            "day": 5,
+            "passage": "Genesis 6-9"
+        },
+        {
+            "id": "10-06",
+            "month": 10,
+            "day": 6,
+            "passage": "John 5:19-29"
+        },
+        {
+            "id": "10-07",
+            "month": 10,
+            "day": 7,
+            "passage": "1 Timothy 6:17-19"
+        },
+        {
+            "id": "10-08",
+            "month": 10,
+            "day": 8,
+            "passage": "Romans 5:1-11"
+        },
+        {
+            "id": "10-09",
+            "month": 10,
+            "day": 9,
+            "passage": "1 John 2:15-17"
+        },
+        {
+            "id": "10-10",
+            "month": 10,
+            "day": 10,
+            "passage": "Luke 17:7-10"
+        },
+        {
+            "id": "10-11",
+            "month": 10,
+            "day": 11,
+            "passage": "1 Chronicles 16:8-27"
+        },
+        {
+            "id": "10-12",
+            "month": 10,
+            "day": 12,
+            "passage": "Matthew 6:5-15"
+        },
+        {
+            "id": "10-13",
+            "month": 10,
+            "day": 13,
+            "passage": "1 Peter 1:1-12"
+        },
+        {
+            "id": "10-14",
+            "month": 10,
+            "day": 14,
+            "passage": "Lamentations 3:22-27"
+        },
+        {
+            "id": "10-15",
+            "month": 10,
+            "day": 15,
+            "passage": "2 Timothy 2:22-26"
+        },
+        {
+            "id": "10-16",
+            "month": 10,
+            "day": 16,
+            "passage": "Hebrews 12:3-11"
+        },
+        {
+            "id": "10-17",
+            "month": 10,
+            "day": 17,
+            "passage": "1 Corinthians 10:14-31"
+        },
+        {
+            "id": "10-18",
+            "month": 10,
+            "day": 18,
+            "passage": "Luke 12:22-34"
+        },
+        {
+            "id": "10-19",
+            "month": 10,
+            "day": 19,
+            "passage": "John 12:23-36"
+        },
+        {
+            "id": "10-20",
+            "month": 10,
+            "day": 20,
+            "passage": "2 Timothy 3:10-17"
+        },
+        {
+            "id": "10-21",
+            "month": 10,
+            "day": 21,
+            "passage": "Hebrews 10:19-25"
+        },
+        {
+            "id": "10-22",
+            "month": 10,
+            "day": 22,
+            "passage": "1 Timothy 1:12-17"
+        },
+        {
+            "id": "10-23",
+            "month": 10,
+            "day": 23,
+            "passage": "Philippians 4:19-20"
+        },
+        {
+            "id": "10-24",
+            "month": 10,
+            "day": 24,
+            "passage": "John 18:15-18"
+        },
+        {
+            "id": "10-25",
+            "month": 10,
+            "day": 25,
+            "passage": "1 Peter 2:1-12"
+        },
+        {
+            "id": "10-26",
+            "month": 10,
+            "day": 26,
+            "passage": "Galatians 5:4-5"
+        },
+        {
+            "id": "10-27",
+            "month": 10,
+            "day": 27,
+            "passage": "1 John 3:1-10"
+        },
+        {
+            "id": "10-28",
+            "month": 10,
+            "day": 28,
+            "passage": "2 Peter 1:1-11"
+        },
+        {
+            "id": "10-29",
+            "month": 10,
+            "day": 29,
+            "passage": "1 Corinthians 1:18-31"
+        },
+        {
+            "id": "10-30",
+            "month": 10,
+            "day": 30,
+            "passage": "John 20:30-31"
+        },
+        {
+            "id": "10-31",
+            "month": 10,
+            "day": 31,
+            "passage": "Jeremiah 10:1-16"
+        },
+        {
+            "id": "11-01",
+            "month": 11,
+            "day": 1,
+            "passage": "Psalm 106"
+        },
+        {
+            "id": "11-02",
+            "month": 11,
+            "day": 2,
+            "passage": "Revelation 5"
+        },
+        {
+            "id": "11-03",
+            "month": 11,
+            "day": 3,
+            "passage": "Galatians 2:15-21"
+        },
+        {
+            "id": "11-04",
+            "month": 11,
+            "day": 4,
+            "passage": "Genesis 3; Ephesians 2"
+        },
+        {
+            "id": "11-05",
+            "month": 11,
+            "day": 5,
+            "passage": "Psalm 115"
+        },
+        {
+            "id": "11-06",
+            "month": 11,
+            "day": 6,
+            "passage": "Luke 11:1-13"
+        },
+        {
+            "id": "11-07",
+            "month": 11,
+            "day": 7,
+            "passage": "Matthew 16:24-28"
+        },
+        {
+            "id": "11-08",
+            "month": 11,
+            "day": 8,
+            "passage": "Isaiah 43:1-13"
+        },
+        {
+            "id": "11-09",
+            "month": 11,
+            "day": 9,
+            "passage": "Galatians 3"
+        },
+        {
+            "id": "11-10",
+            "month": 11,
+            "day": 10,
+            "passage": "Mark 16:14-18"
+        },
+        {
+            "id": "11-11",
+            "month": 11,
+            "day": 11,
+            "passage": "Psalm 136"
+        },
+        {
+            "id": "11-12",
+            "month": 11,
+            "day": 12,
+            "passage": "Mark 8:34-38"
+        },
+        {
+            "id": "11-13",
+            "month": 11,
+            "day": 13,
+            "passage": "Luke 18:1-14"
+        },
+        {
+            "id": "11-14",
+            "month": 11,
+            "day": 14,
+            "passage": "Ephesians 4:17-32"
+        },
+        {
+            "id": "11-15",
+            "month": 11,
+            "day": 15,
+            "passage": "Psalm 42"
+        },
+        {
+            "id": "11-16",
+            "month": 11,
+            "day": 16,
+            "passage": "Psalm 94"
+        },
+        {
+            "id": "11-17",
+            "month": 11,
+            "day": 17,
+            "passage": "Luke 15:1-10"
+        },
+        {
+            "id": "11-18",
+            "month": 11,
+            "day": 18,
+            "passage": "Romans 3:21-31"
+        },
+        {
+            "id": "11-19",
+            "month": 11,
+            "day": 19,
+            "passage": "Jeremiah 2"
+        },
+        {
+            "id": "11-20",
+            "month": 11,
+            "day": 20,
+            "passage": "Psalm 32"
+        },
+        {
+            "id": "11-21",
+            "month": 11,
+            "day": 21,
+            "passage": "1 Corinthians 2:6-16"
+        },
+        {
+            "id": "11-22",
+            "month": 11,
+            "day": 22,
+            "passage": "Psalm 84:11; Matthew 6:25-32"
+        },
+        {
+            "id": "11-23",
+            "month": 11,
+            "day": 23,
+            "passage": "Hebrews 3"
+        },
+        {
+            "id": "11-24",
+            "month": 11,
+            "day": 24,
+            "passage": "Exodus 19"
+        },
+        {
+            "id": "11-25",
+            "month": 11,
+            "day": 25,
+            "passage": "Romans 1"
+        },
+        {
+            "id": "11-26",
+            "month": 11,
+            "day": 26,
+            "passage": "Acts 2:22-41"
+        },
+        {
+            "id": "11-27",
+            "month": 11,
+            "day": 27,
+            "passage": "1 Samuel 12"
+        },
+        {
+            "id": "11-28",
+            "month": 11,
+            "day": 28,
+            "passage": "Ephesians 4:17-24"
+        },
+        {
+            "id": "11-29",
+            "month": 11,
+            "day": 29,
+            "passage": "Romans 8:1-17"
+        },
+        {
+            "id": "11-30",
+            "month": 11,
+            "day": 30,
+            "passage": "John 15:1-17"
+        },
+        {
+            "id": "12-01",
+            "month": 12,
+            "day": 1,
+            "passage": "1 John 1:1-4"
+        },
+        {
+            "id": "12-02",
+            "month": 12,
+            "day": 2,
+            "passage": "1 Thessalonians 5:23-24"
+        },
+        {
+            "id": "12-03",
+            "month": 12,
+            "day": 3,
+            "passage": "Romans 11"
+        },
+        {
+            "id": "12-04",
+            "month": 12,
+            "day": 4,
+            "passage": "Psalm 145"
+        },
+        {
+            "id": "12-05",
+            "month": 12,
+            "day": 5,
+            "passage": "Psalm 63"
+        },
+        {
+            "id": "12-06",
+            "month": 12,
+            "day": 6,
+            "passage": "Mark 7:14-23"
+        },
+        {
+            "id": "12-07",
+            "month": 12,
+            "day": 7,
+            "passage": "Hebrews 2:14-18"
+        },
+        {
+            "id": "12-08",
+            "month": 12,
+            "day": 8,
+            "passage": "Hebrews 4:1-13"
+        },
+        {
+            "id": "12-09",
+            "month": 12,
+            "day": 9,
+            "passage": "2 Kings 6:8-17"
+        },
+        {
+            "id": "12-10",
+            "month": 12,
+            "day": 10,
+            "passage": "Psalm 51"
+        },
+        {
+            "id": "12-11",
+            "month": 12,
+            "day": 11,
+            "passage": "1 Samuel 15"
+        },
+        {
+            "id": "12-12",
+            "month": 12,
+            "day": 12,
+            "passage": "Mark 15:33-39"
+        },
+        {
+            "id": "12-13",
+            "month": 12,
+            "day": 13,
+            "passage": "John 6:60-65"
+        },
+        {
+            "id": "12-14",
+            "month": 12,
+            "day": 14,
+            "passage": "2 Corinthians 5:11-21"
+        },
+        {
+            "id": "12-15",
+            "month": 12,
+            "day": 15,
+            "passage": "Ephesians 1"
+        },
+        {
+            "id": "12-16",
+            "month": 12,
+            "day": 16,
+            "passage": "Daniel 2:20-23"
+        },
+        {
+            "id": "12-17",
+            "month": 12,
+            "day": 17,
+            "passage": "Romans 6"
+        },
+        {
+            "id": "12-18",
+            "month": 12,
+            "day": 18,
+            "passage": "Matthew 10:16-33"
+        },
+        {
+            "id": "12-19",
+            "month": 12,
+            "day": 19,
+            "passage": "Isaiah 48:1-11"
+        },
+        {
+            "id": "12-20",
+            "month": 12,
+            "day": 20,
+            "passage": "Titus 2:11-14"
+        },
+        {
+            "id": "12-21",
+            "month": 12,
+            "day": 21,
+            "passage": "Luke 9:57-62"
+        },
+        {
+            "id": "12-22",
+            "month": 12,
+            "day": 22,
+            "passage": "John 12:27-36"
+        },
+        {
+            "id": "12-23",
+            "month": 12,
+            "day": 23,
+            "passage": "1 Peter 2:23-25"
+        },
+        {
+            "id": "12-24",
+            "month": 12,
+            "day": 24,
+            "passage": "Isaiah 9"
+        },
+        {
+            "id": "12-25",
+            "month": 12,
+            "day": 25,
+            "passage": "John 10:1-18"
+        },
+        {
+            "id": "12-26",
+            "month": 12,
+            "day": 26,
+            "passage": "Psalm 22"
+        },
+        {
+            "id": "12-27",
+            "month": 12,
+            "day": 27,
+            "passage": "Ephesians 2:11-22"
+        },
+        {
+            "id": "12-28",
+            "month": 12,
+            "day": 28,
+            "passage": "Psalm 104"
+        },
+        {
+            "id": "12-29",
+            "month": 12,
+            "day": 29,
+            "passage": "Colossians 3:1-17"
+        },
+        {
+            "id": "12-30",
+            "month": 12,
+            "day": 30,
+            "passage": "Hebrew 6:9-20"
+        },
+        {
+            "id": "12-31",
+            "month": 12,
+            "day": 31,
+            "passage": "John 1:16"
+        }
+    ]
+}

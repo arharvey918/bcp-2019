@@ -1,0 +1,2203 @@
+{
+    "id": "bcp-mp-lesson-1",
+    "name": "BCP Morning Lesson 1",
+    "desc": "First morning lesson from the BCP 2019.",
+    "readings": [
+        {
+            "id": "01-01",
+            "month": 1,
+            "day": 1,
+            "passage": "Gen 1"
+        },
+        {
+            "id": "01-02",
+            "month": 1,
+            "day": 2,
+            "passage": "Gen 2"
+        },
+        {
+            "id": "01-03",
+            "month": 1,
+            "day": 3,
+            "passage": "Gen 3"
+        },
+        {
+            "id": "01-04",
+            "month": 1,
+            "day": 4,
+            "passage": "Gen 4"
+        },
+        {
+            "id": "01-05",
+            "month": 1,
+            "day": 5,
+            "passage": "Gen 5"
+        },
+        {
+            "id": "01-06",
+            "month": 1,
+            "day": 6,
+            "passage": "Gen 6"
+        },
+        {
+            "id": "01-07",
+            "month": 1,
+            "day": 7,
+            "passage": "Gen 7"
+        },
+        {
+            "id": "01-08",
+            "month": 1,
+            "day": 8,
+            "passage": "Gen 8"
+        },
+        {
+            "id": "01-09",
+            "month": 1,
+            "day": 9,
+            "passage": "Gen 9"
+        },
+        {
+            "id": "01-10",
+            "month": 1,
+            "day": 10,
+            "passage": "Gen 10"
+        },
+        {
+            "id": "01-11",
+            "month": 1,
+            "day": 11,
+            "passage": "Gen 11"
+        },
+        {
+            "id": "01-12",
+            "month": 1,
+            "day": 12,
+            "passage": "Gen 12"
+        },
+        {
+            "id": "01-13",
+            "month": 1,
+            "day": 13,
+            "passage": "Gen 13"
+        },
+        {
+            "id": "01-14",
+            "month": 1,
+            "day": 14,
+            "passage": "Gen 14"
+        },
+        {
+            "id": "01-15",
+            "month": 1,
+            "day": 15,
+            "passage": "Gen 15"
+        },
+        {
+            "id": "01-16",
+            "month": 1,
+            "day": 16,
+            "passage": "Gen 16"
+        },
+        {
+            "id": "01-17",
+            "month": 1,
+            "day": 17,
+            "passage": "Gen 17"
+        },
+        {
+            "id": "01-18",
+            "month": 1,
+            "day": 18,
+            "passage": "Gen 18"
+        },
+        {
+            "id": "01-19",
+            "month": 1,
+            "day": 19,
+            "passage": "Gen 19"
+        },
+        {
+            "id": "01-20",
+            "month": 1,
+            "day": 20,
+            "passage": "Gen 20"
+        },
+        {
+            "id": "01-21",
+            "month": 1,
+            "day": 21,
+            "passage": "Gen 21"
+        },
+        {
+            "id": "01-22",
+            "month": 1,
+            "day": 22,
+            "passage": "Gen 22"
+        },
+        {
+            "id": "01-23",
+            "month": 1,
+            "day": 23,
+            "passage": "Gen 23"
+        },
+        {
+            "id": "01-24",
+            "month": 1,
+            "day": 24,
+            "passage": "Gen 24"
+        },
+        {
+            "id": "01-25",
+            "month": 1,
+            "day": 25,
+            "passage": "Acts 9:1-22"
+        },
+        {
+            "id": "01-26",
+            "month": 1,
+            "day": 26,
+            "passage": "Gen 25"
+        },
+        {
+            "id": "01-27",
+            "month": 1,
+            "day": 27,
+            "passage": "Gen 26"
+        },
+        {
+            "id": "01-28",
+            "month": 1,
+            "day": 28,
+            "passage": "Gen 27"
+        },
+        {
+            "id": "01-29",
+            "month": 1,
+            "day": 29,
+            "passage": "Gen 28"
+        },
+        {
+            "id": "01-30",
+            "month": 1,
+            "day": 30,
+            "passage": "Gen 29"
+        },
+        {
+            "id": "01-31",
+            "month": 1,
+            "day": 31,
+            "passage": "Gen 30"
+        },
+        {
+            "id": "02-01",
+            "month": 2,
+            "day": 1,
+            "passage": "Gen 31"
+        },
+        {
+            "id": "02-02",
+            "month": 2,
+            "day": 2,
+            "passage": "Gen 32"
+        },
+        {
+            "id": "02-03",
+            "month": 2,
+            "day": 3,
+            "passage": "Gen 33"
+        },
+        {
+            "id": "02-04",
+            "month": 2,
+            "day": 4,
+            "passage": "Gen 34"
+        },
+        {
+            "id": "02-05",
+            "month": 2,
+            "day": 5,
+            "passage": "Gen 35"
+        },
+        {
+            "id": "02-06",
+            "month": 2,
+            "day": 6,
+            "passage": "Gen 36"
+        },
+        {
+            "id": "02-07",
+            "month": 2,
+            "day": 7,
+            "passage": "Gen 37"
+        },
+        {
+            "id": "02-08",
+            "month": 2,
+            "day": 8,
+            "passage": "Gen 38"
+        },
+        {
+            "id": "02-09",
+            "month": 2,
+            "day": 9,
+            "passage": "Gen 39"
+        },
+        {
+            "id": "02-10",
+            "month": 2,
+            "day": 10,
+            "passage": "Gen 40"
+        },
+        {
+            "id": "02-11",
+            "month": 2,
+            "day": 11,
+            "passage": "Gen 41"
+        },
+        {
+            "id": "02-12",
+            "month": 2,
+            "day": 12,
+            "passage": "Gen 42"
+        },
+        {
+            "id": "02-13",
+            "month": 2,
+            "day": 13,
+            "passage": "Gen 43"
+        },
+        {
+            "id": "02-14",
+            "month": 2,
+            "day": 14,
+            "passage": "Gen 44"
+        },
+        {
+            "id": "02-15",
+            "month": 2,
+            "day": 15,
+            "passage": "Gen 45"
+        },
+        {
+            "id": "02-16",
+            "month": 2,
+            "day": 16,
+            "passage": "Gen 46"
+        },
+        {
+            "id": "02-17",
+            "month": 2,
+            "day": 17,
+            "passage": "Gen 47"
+        },
+        {
+            "id": "02-18",
+            "month": 2,
+            "day": 18,
+            "passage": "Gen 48"
+        },
+        {
+            "id": "02-19",
+            "month": 2,
+            "day": 19,
+            "passage": "Gen 49"
+        },
+        {
+            "id": "02-20",
+            "month": 2,
+            "day": 20,
+            "passage": "Gen 50"
+        },
+        {
+            "id": "02-21",
+            "month": 2,
+            "day": 21,
+            "passage": "Exod 1"
+        },
+        {
+            "id": "02-22",
+            "month": 2,
+            "day": 22,
+            "passage": "Exod 2"
+        },
+        {
+            "id": "02-23",
+            "month": 2,
+            "day": 23,
+            "passage": "Exod 3"
+        },
+        {
+            "id": "02-24",
+            "month": 2,
+            "day": 24,
+            "passage": "Acts 1:15-26"
+        },
+        {
+            "id": "02-25",
+            "month": 2,
+            "day": 25,
+            "passage": "Exod 4"
+        },
+        {
+            "id": "02-26",
+            "month": 2,
+            "day": 26,
+            "passage": "Exod 5"
+        },
+        {
+            "id": "02-27",
+            "month": 2,
+            "day": 27,
+            "passage": "Exod 6"
+        },
+        {
+            "id": "02-28",
+            "month": 2,
+            "day": 28,
+            "passage": "Exod 7"
+        },
+        {
+            "id": "02-29",
+            "month": 2,
+            "day": 29,
+            "passage": "2 Kings 2"
+        },
+        {
+            "id": "03-01",
+            "month": 3,
+            "day": 1,
+            "passage": "Exod 8"
+        },
+        {
+            "id": "03-02",
+            "month": 3,
+            "day": 2,
+            "passage": "Exod 9"
+        },
+        {
+            "id": "03-03",
+            "month": 3,
+            "day": 3,
+            "passage": "Exod 10"
+        },
+        {
+            "id": "03-04",
+            "month": 3,
+            "day": 4,
+            "passage": "Exod 11"
+        },
+        {
+            "id": "03-05",
+            "month": 3,
+            "day": 5,
+            "passage": "Exod 12"
+        },
+        {
+            "id": "03-06",
+            "month": 3,
+            "day": 6,
+            "passage": "Exod 13"
+        },
+        {
+            "id": "03-07",
+            "month": 3,
+            "day": 7,
+            "passage": "Exod 14"
+        },
+        {
+            "id": "03-08",
+            "month": 3,
+            "day": 8,
+            "passage": "Exod 15"
+        },
+        {
+            "id": "03-09",
+            "month": 3,
+            "day": 9,
+            "passage": "Exod 16"
+        },
+        {
+            "id": "03-10",
+            "month": 3,
+            "day": 10,
+            "passage": "Exod 17"
+        },
+        {
+            "id": "03-11",
+            "month": 3,
+            "day": 11,
+            "passage": "Exod 18"
+        },
+        {
+            "id": "03-12",
+            "month": 3,
+            "day": 12,
+            "passage": "Exod 19"
+        },
+        {
+            "id": "03-13",
+            "month": 3,
+            "day": 13,
+            "passage": "Exod 20"
+        },
+        {
+            "id": "03-14",
+            "month": 3,
+            "day": 14,
+            "passage": "Exod 21"
+        },
+        {
+            "id": "03-15",
+            "month": 3,
+            "day": 15,
+            "passage": "Exod 22"
+        },
+        {
+            "id": "03-16",
+            "month": 3,
+            "day": 16,
+            "passage": "Exod 23"
+        },
+        {
+            "id": "03-17",
+            "month": 3,
+            "day": 17,
+            "passage": "Exod 24"
+        },
+        {
+            "id": "03-18",
+            "month": 3,
+            "day": 18,
+            "passage": "Exod 25"
+        },
+        {
+            "id": "03-19",
+            "month": 3,
+            "day": 19,
+            "passage": "Exod 26"
+        },
+        {
+            "id": "03-20",
+            "month": 3,
+            "day": 20,
+            "passage": "Exod 27"
+        },
+        {
+            "id": "03-21",
+            "month": 3,
+            "day": 21,
+            "passage": "Exod 28"
+        },
+        {
+            "id": "03-22",
+            "month": 3,
+            "day": 22,
+            "passage": "Exod 29"
+        },
+        {
+            "id": "03-23",
+            "month": 3,
+            "day": 23,
+            "passage": "Exod 30"
+        },
+        {
+            "id": "03-24",
+            "month": 3,
+            "day": 24,
+            "passage": "Exod 31"
+        },
+        {
+            "id": "03-25",
+            "month": 3,
+            "day": 25,
+            "passage": "Exod 32"
+        },
+        {
+            "id": "03-26",
+            "month": 3,
+            "day": 26,
+            "passage": "Exod 33"
+        },
+        {
+            "id": "03-27",
+            "month": 3,
+            "day": 27,
+            "passage": "Exod 34"
+        },
+        {
+            "id": "03-28",
+            "month": 3,
+            "day": 28,
+            "passage": "Exod 35"
+        },
+        {
+            "id": "03-29",
+            "month": 3,
+            "day": 29,
+            "passage": "Exod 36"
+        },
+        {
+            "id": "03-30",
+            "month": 3,
+            "day": 30,
+            "passage": "Exod 37"
+        },
+        {
+            "id": "03-31",
+            "month": 3,
+            "day": 31,
+            "passage": "Exod 38"
+        },
+        {
+            "id": "04-01",
+            "month": 4,
+            "day": 1,
+            "passage": "Exod 39"
+        },
+        {
+            "id": "04-02",
+            "month": 4,
+            "day": 2,
+            "passage": "Exod 40"
+        },
+        {
+            "id": "04-03",
+            "month": 4,
+            "day": 3,
+            "passage": "Lev 1"
+        },
+        {
+            "id": "04-04",
+            "month": 4,
+            "day": 4,
+            "passage": "Lev 8"
+        },
+        {
+            "id": "04-05",
+            "month": 4,
+            "day": 5,
+            "passage": "Lev 10"
+        },
+        {
+            "id": "04-06",
+            "month": 4,
+            "day": 6,
+            "passage": "Lev 16"
+        },
+        {
+            "id": "04-07",
+            "month": 4,
+            "day": 7,
+            "passage": "Lev 17"
+        },
+        {
+            "id": "04-08",
+            "month": 4,
+            "day": 8,
+            "passage": "Lev 18"
+        },
+        {
+            "id": "04-09",
+            "month": 4,
+            "day": 9,
+            "passage": "Lev 19"
+        },
+        {
+            "id": "04-10",
+            "month": 4,
+            "day": 10,
+            "passage": "Lev 20"
+        },
+        {
+            "id": "04-11",
+            "month": 4,
+            "day": 11,
+            "passage": "Lev 23"
+        },
+        {
+            "id": "04-12",
+            "month": 4,
+            "day": 12,
+            "passage": "Lev 26"
+        },
+        {
+            "id": "04-13",
+            "month": 4,
+            "day": 13,
+            "passage": "Num 6"
+        },
+        {
+            "id": "04-14",
+            "month": 4,
+            "day": 14,
+            "passage": "Num 8"
+        },
+        {
+            "id": "04-15",
+            "month": 4,
+            "day": 15,
+            "passage": "Num 11"
+        },
+        {
+            "id": "04-16",
+            "month": 4,
+            "day": 16,
+            "passage": "Num 12"
+        },
+        {
+            "id": "04-17",
+            "month": 4,
+            "day": 17,
+            "passage": "Num 13"
+        },
+        {
+            "id": "04-18",
+            "month": 4,
+            "day": 18,
+            "passage": "Num 14"
+        },
+        {
+            "id": "04-19",
+            "month": 4,
+            "day": 19,
+            "passage": "Num 15"
+        },
+        {
+            "id": "04-20",
+            "month": 4,
+            "day": 20,
+            "passage": "Num 16"
+        },
+        {
+            "id": "04-21",
+            "month": 4,
+            "day": 21,
+            "passage": "Num 17"
+        },
+        {
+            "id": "04-22",
+            "month": 4,
+            "day": 22,
+            "passage": "Num 18"
+        },
+        {
+            "id": "04-23",
+            "month": 4,
+            "day": 23,
+            "passage": "Num 20"
+        },
+        {
+            "id": "04-24",
+            "month": 4,
+            "day": 24,
+            "passage": "Num 21"
+        },
+        {
+            "id": "04-25",
+            "month": 4,
+            "day": 25,
+            "passage": "Acts 12:11-25"
+        },
+        {
+            "id": "04-26",
+            "month": 4,
+            "day": 26,
+            "passage": "Num 22"
+        },
+        {
+            "id": "04-27",
+            "month": 4,
+            "day": 27,
+            "passage": "Num 23"
+        },
+        {
+            "id": "04-28",
+            "month": 4,
+            "day": 28,
+            "passage": "Num 24"
+        },
+        {
+            "id": "04-29",
+            "month": 4,
+            "day": 29,
+            "passage": "Num 25"
+        },
+        {
+            "id": "04-30",
+            "month": 4,
+            "day": 30,
+            "passage": "Deut 1"
+        },
+        {
+            "id": "05-01",
+            "month": 5,
+            "day": 1,
+            "passage": "Deut 2"
+        },
+        {
+            "id": "05-02",
+            "month": 5,
+            "day": 2,
+            "passage": "Deut 3"
+        },
+        {
+            "id": "05-03",
+            "month": 5,
+            "day": 3,
+            "passage": "Deut 4"
+        },
+        {
+            "id": "05-04",
+            "month": 5,
+            "day": 4,
+            "passage": "Deut 5"
+        },
+        {
+            "id": "05-05",
+            "month": 5,
+            "day": 5,
+            "passage": "Deut 6"
+        },
+        {
+            "id": "05-06",
+            "month": 5,
+            "day": 6,
+            "passage": "Deut 7"
+        },
+        {
+            "id": "05-07",
+            "month": 5,
+            "day": 7,
+            "passage": "Deut 8"
+        },
+        {
+            "id": "05-08",
+            "month": 5,
+            "day": 8,
+            "passage": "Deut 9"
+        },
+        {
+            "id": "05-09",
+            "month": 5,
+            "day": 9,
+            "passage": "Deut 10"
+        },
+        {
+            "id": "05-10",
+            "month": 5,
+            "day": 10,
+            "passage": "Deut 11"
+        },
+        {
+            "id": "05-11",
+            "month": 5,
+            "day": 11,
+            "passage": "Deut 12"
+        },
+        {
+            "id": "05-12",
+            "month": 5,
+            "day": 12,
+            "passage": "Deut 13"
+        },
+        {
+            "id": "05-13",
+            "month": 5,
+            "day": 13,
+            "passage": "Deut 14"
+        },
+        {
+            "id": "05-14",
+            "month": 5,
+            "day": 14,
+            "passage": "Deut 15"
+        },
+        {
+            "id": "05-15",
+            "month": 5,
+            "day": 15,
+            "passage": "Deut 16"
+        },
+        {
+            "id": "05-16",
+            "month": 5,
+            "day": 16,
+            "passage": "Deut 17"
+        },
+        {
+            "id": "05-17",
+            "month": 5,
+            "day": 17,
+            "passage": "Deut 18"
+        },
+        {
+            "id": "05-18",
+            "month": 5,
+            "day": 18,
+            "passage": "Deut 19"
+        },
+        {
+            "id": "05-19",
+            "month": 5,
+            "day": 19,
+            "passage": "Deut 20"
+        },
+        {
+            "id": "05-20",
+            "month": 5,
+            "day": 20,
+            "passage": "Deut 21"
+        },
+        {
+            "id": "05-21",
+            "month": 5,
+            "day": 21,
+            "passage": "Deut 22"
+        },
+        {
+            "id": "05-22",
+            "month": 5,
+            "day": 22,
+            "passage": "Deut 23"
+        },
+        {
+            "id": "05-23",
+            "month": 5,
+            "day": 23,
+            "passage": "Deut 24"
+        },
+        {
+            "id": "05-24",
+            "month": 5,
+            "day": 24,
+            "passage": "Deut 25"
+        },
+        {
+            "id": "05-25",
+            "month": 5,
+            "day": 25,
+            "passage": "Deut 26"
+        },
+        {
+            "id": "05-26",
+            "month": 5,
+            "day": 26,
+            "passage": "Deut 27"
+        },
+        {
+            "id": "05-27",
+            "month": 5,
+            "day": 27,
+            "passage": "Deut 28"
+        },
+        {
+            "id": "05-28",
+            "month": 5,
+            "day": 28,
+            "passage": "Deut 29"
+        },
+        {
+            "id": "05-29",
+            "month": 5,
+            "day": 29,
+            "passage": "Deut 30"
+        },
+        {
+            "id": "05-30",
+            "month": 5,
+            "day": 30,
+            "passage": "Deut 31"
+        },
+        {
+            "id": "05-31",
+            "month": 5,
+            "day": 31,
+            "passage": "Deut 32"
+        },
+        {
+            "id": "06-01",
+            "month": 6,
+            "day": 1,
+            "passage": "Deut 33"
+        },
+        {
+            "id": "06-02",
+            "month": 6,
+            "day": 2,
+            "passage": "Deut 34"
+        },
+        {
+            "id": "06-03",
+            "month": 6,
+            "day": 3,
+            "passage": "Josh 1"
+        },
+        {
+            "id": "06-04",
+            "month": 6,
+            "day": 4,
+            "passage": "Josh 2"
+        },
+        {
+            "id": "06-05",
+            "month": 6,
+            "day": 5,
+            "passage": "Josh 3"
+        },
+        {
+            "id": "06-06",
+            "month": 6,
+            "day": 6,
+            "passage": "Josh 4"
+        },
+        {
+            "id": "06-07",
+            "month": 6,
+            "day": 7,
+            "passage": "Josh 5"
+        },
+        {
+            "id": "06-08",
+            "month": 6,
+            "day": 8,
+            "passage": "Josh 6"
+        },
+        {
+            "id": "06-09",
+            "month": 6,
+            "day": 9,
+            "passage": "Josh 7"
+        },
+        {
+            "id": "06-10",
+            "month": 6,
+            "day": 10,
+            "passage": "Josh 8"
+        },
+        {
+            "id": "06-11",
+            "month": 6,
+            "day": 11,
+            "passage": "Acts 4:32-37"
+        },
+        {
+            "id": "06-12",
+            "month": 6,
+            "day": 12,
+            "passage": "Josh 9"
+        },
+        {
+            "id": "06-13",
+            "month": 6,
+            "day": 13,
+            "passage": "Josh 10"
+        },
+        {
+            "id": "06-14",
+            "month": 6,
+            "day": 14,
+            "passage": "Josh 14"
+        },
+        {
+            "id": "06-15",
+            "month": 6,
+            "day": 15,
+            "passage": "Josh 22"
+        },
+        {
+            "id": "06-16",
+            "month": 6,
+            "day": 16,
+            "passage": "Josh 23"
+        },
+        {
+            "id": "06-17",
+            "month": 6,
+            "day": 17,
+            "passage": "Josh 24"
+        },
+        {
+            "id": "06-18",
+            "month": 6,
+            "day": 18,
+            "passage": "Judg 1"
+        },
+        {
+            "id": "06-19",
+            "month": 6,
+            "day": 19,
+            "passage": "Judg 2"
+        },
+        {
+            "id": "06-20",
+            "month": 6,
+            "day": 20,
+            "passage": "Judg 3"
+        },
+        {
+            "id": "06-21",
+            "month": 6,
+            "day": 21,
+            "passage": "Judg 4"
+        },
+        {
+            "id": "06-22",
+            "month": 6,
+            "day": 22,
+            "passage": "Judg 5"
+        },
+        {
+            "id": "06-23",
+            "month": 6,
+            "day": 23,
+            "passage": "Judg 6"
+        },
+        {
+            "id": "06-24",
+            "month": 6,
+            "day": 24,
+            "passage": "1 Thess 2:17-3:1-end"
+        },
+        {
+            "id": "06-25",
+            "month": 6,
+            "day": 25,
+            "passage": "Judg 7"
+        },
+        {
+            "id": "06-26",
+            "month": 6,
+            "day": 26,
+            "passage": "Judg 8"
+        },
+        {
+            "id": "06-27",
+            "month": 6,
+            "day": 27,
+            "passage": "Judg 9"
+        },
+        {
+            "id": "06-28",
+            "month": 6,
+            "day": 28,
+            "passage": "Judg 10"
+        },
+        {
+            "id": "06-29",
+            "month": 6,
+            "day": 29,
+            "passage": "2 Thess 2"
+        },
+        {
+            "id": "06-30",
+            "month": 6,
+            "day": 30,
+            "passage": "Judg 11"
+        },
+        {
+            "id": "07-01",
+            "month": 7,
+            "day": 1,
+            "passage": "Judg 12"
+        },
+        {
+            "id": "07-02",
+            "month": 7,
+            "day": 2,
+            "passage": "Judg 13"
+        },
+        {
+            "id": "07-03",
+            "month": 7,
+            "day": 3,
+            "passage": "Judg 14"
+        },
+        {
+            "id": "07-04",
+            "month": 7,
+            "day": 4,
+            "passage": "Judg 15"
+        },
+        {
+            "id": "07-05",
+            "month": 7,
+            "day": 5,
+            "passage": "Judg 16"
+        },
+        {
+            "id": "07-06",
+            "month": 7,
+            "day": 6,
+            "passage": "Ruth 1"
+        },
+        {
+            "id": "07-07",
+            "month": 7,
+            "day": 7,
+            "passage": "Ruth 2"
+        },
+        {
+            "id": "07-08",
+            "month": 7,
+            "day": 8,
+            "passage": "Ruth 3"
+        },
+        {
+            "id": "07-09",
+            "month": 7,
+            "day": 9,
+            "passage": "Ruth 4"
+        },
+        {
+            "id": "07-10",
+            "month": 7,
+            "day": 10,
+            "passage": "1 Sam 1"
+        },
+        {
+            "id": "07-11",
+            "month": 7,
+            "day": 11,
+            "passage": "1 Sam 2"
+        },
+        {
+            "id": "07-12",
+            "month": 7,
+            "day": 12,
+            "passage": "1 Sam 3"
+        },
+        {
+            "id": "07-13",
+            "month": 7,
+            "day": 13,
+            "passage": "1 Sam 4"
+        },
+        {
+            "id": "07-14",
+            "month": 7,
+            "day": 14,
+            "passage": "1 Sam 5"
+        },
+        {
+            "id": "07-15",
+            "month": 7,
+            "day": 15,
+            "passage": "1 Sam 6"
+        },
+        {
+            "id": "07-16",
+            "month": 7,
+            "day": 16,
+            "passage": "1 Sam 7"
+        },
+        {
+            "id": "07-17",
+            "month": 7,
+            "day": 17,
+            "passage": "1 Sam 8"
+        },
+        {
+            "id": "07-18",
+            "month": 7,
+            "day": 18,
+            "passage": "1 Sam 9"
+        },
+        {
+            "id": "07-19",
+            "month": 7,
+            "day": 19,
+            "passage": "1 Sam 10"
+        },
+        {
+            "id": "07-20",
+            "month": 7,
+            "day": 20,
+            "passage": "1 Sam 11"
+        },
+        {
+            "id": "07-21",
+            "month": 7,
+            "day": 21,
+            "passage": "1 Sam 12"
+        },
+        {
+            "id": "07-22",
+            "month": 7,
+            "day": 22,
+            "passage": "2 Cor 5"
+        },
+        {
+            "id": "07-23",
+            "month": 7,
+            "day": 23,
+            "passage": "1 Sam 13"
+        },
+        {
+            "id": "07-24",
+            "month": 7,
+            "day": 24,
+            "passage": "1 Sam 14"
+        },
+        {
+            "id": "07-25",
+            "month": 7,
+            "day": 25,
+            "passage": "2 Cor 8"
+        },
+        {
+            "id": "07-26",
+            "month": 7,
+            "day": 26,
+            "passage": "1 Sam 15"
+        },
+        {
+            "id": "07-27",
+            "month": 7,
+            "day": 27,
+            "passage": "1 Sam 16"
+        },
+        {
+            "id": "07-28",
+            "month": 7,
+            "day": 28,
+            "passage": "1 Sam 17"
+        },
+        {
+            "id": "07-29",
+            "month": 7,
+            "day": 29,
+            "passage": "1 Sam 18"
+        },
+        {
+            "id": "07-30",
+            "month": 7,
+            "day": 30,
+            "passage": "1 Sam 19"
+        },
+        {
+            "id": "07-31",
+            "month": 7,
+            "day": 31,
+            "passage": "1 Sam 20"
+        },
+        {
+            "id": "08-01",
+            "month": 8,
+            "day": 1,
+            "passage": "1 Sam 21"
+        },
+        {
+            "id": "08-02",
+            "month": 8,
+            "day": 2,
+            "passage": "1 Sam 22"
+        },
+        {
+            "id": "08-03",
+            "month": 8,
+            "day": 3,
+            "passage": "1 Sam 23"
+        },
+        {
+            "id": "08-04",
+            "month": 8,
+            "day": 4,
+            "passage": "1 Sam 24"
+        },
+        {
+            "id": "08-05",
+            "month": 8,
+            "day": 5,
+            "passage": "1 Sam 25"
+        },
+        {
+            "id": "08-06",
+            "month": 8,
+            "day": 6,
+            "passage": "Rom 7"
+        },
+        {
+            "id": "08-07",
+            "month": 8,
+            "day": 7,
+            "passage": "1 Sam 26"
+        },
+        {
+            "id": "08-08",
+            "month": 8,
+            "day": 8,
+            "passage": "1 Sam 27"
+        },
+        {
+            "id": "08-09",
+            "month": 8,
+            "day": 9,
+            "passage": "1 Sam 28"
+        },
+        {
+            "id": "08-10",
+            "month": 8,
+            "day": 10,
+            "passage": "1 Sam 29"
+        },
+        {
+            "id": "08-11",
+            "month": 8,
+            "day": 11,
+            "passage": "1 Sam 30"
+        },
+        {
+            "id": "08-12",
+            "month": 8,
+            "day": 12,
+            "passage": "1 Sam 31"
+        },
+        {
+            "id": "08-13",
+            "month": 8,
+            "day": 13,
+            "passage": "2 Sam 1"
+        },
+        {
+            "id": "08-14",
+            "month": 8,
+            "day": 14,
+            "passage": "2 Sam 2"
+        },
+        {
+            "id": "08-15",
+            "month": 8,
+            "day": 15,
+            "passage": "2 Sam 3"
+        },
+        {
+            "id": "08-16",
+            "month": 8,
+            "day": 16,
+            "passage": "2 Sam 4"
+        },
+        {
+            "id": "08-17",
+            "month": 8,
+            "day": 17,
+            "passage": "2 Sam 5"
+        },
+        {
+            "id": "08-18",
+            "month": 8,
+            "day": 18,
+            "passage": "2 Sam 6"
+        },
+        {
+            "id": "08-19",
+            "month": 8,
+            "day": 19,
+            "passage": "2 Sam 7"
+        },
+        {
+            "id": "08-20",
+            "month": 8,
+            "day": 20,
+            "passage": "2 Sam 8"
+        },
+        {
+            "id": "08-21",
+            "month": 8,
+            "day": 21,
+            "passage": "2 Sam 9"
+        },
+        {
+            "id": "08-22",
+            "month": 8,
+            "day": 22,
+            "passage": "2 Sam 10"
+        },
+        {
+            "id": "08-23",
+            "month": 8,
+            "day": 23,
+            "passage": "2 Sam 11"
+        },
+        {
+            "id": "08-24",
+            "month": 8,
+            "day": 24,
+            "passage": "Col 1:1-20"
+        },
+        {
+            "id": "08-25",
+            "month": 8,
+            "day": 25,
+            "passage": "2 Sam 12"
+        },
+        {
+            "id": "08-26",
+            "month": 8,
+            "day": 26,
+            "passage": "2 Sam 13"
+        },
+        {
+            "id": "08-27",
+            "month": 8,
+            "day": 27,
+            "passage": "2 Sam 14"
+        },
+        {
+            "id": "08-28",
+            "month": 8,
+            "day": 28,
+            "passage": "2 Sam 15"
+        },
+        {
+            "id": "08-29",
+            "month": 8,
+            "day": 29,
+            "passage": "2 Sam 16"
+        },
+        {
+            "id": "08-30",
+            "month": 8,
+            "day": 30,
+            "passage": "2 Sam 17"
+        },
+        {
+            "id": "08-31",
+            "month": 8,
+            "day": 31,
+            "passage": "2 Sam 18"
+        },
+        {
+            "id": "09-01",
+            "month": 9,
+            "day": 1,
+            "passage": "2 Sam 19"
+        },
+        {
+            "id": "09-02",
+            "month": 9,
+            "day": 2,
+            "passage": "2 Sam 20"
+        },
+        {
+            "id": "09-03",
+            "month": 9,
+            "day": 3,
+            "passage": "2 Sam 21"
+        },
+        {
+            "id": "09-04",
+            "month": 9,
+            "day": 4,
+            "passage": "2 Sam 22"
+        },
+        {
+            "id": "09-05",
+            "month": 9,
+            "day": 5,
+            "passage": "2 Sam 23"
+        },
+        {
+            "id": "09-06",
+            "month": 9,
+            "day": 6,
+            "passage": "2 Sam 24"
+        },
+        {
+            "id": "09-07",
+            "month": 9,
+            "day": 7,
+            "passage": "1 Chron 22"
+        },
+        {
+            "id": "09-08",
+            "month": 9,
+            "day": 8,
+            "passage": "1 Kings 1"
+        },
+        {
+            "id": "09-09",
+            "month": 9,
+            "day": 9,
+            "passage": "1 Chron 28"
+        },
+        {
+            "id": "09-10",
+            "month": 9,
+            "day": 10,
+            "passage": "1 Kings 2"
+        },
+        {
+            "id": "09-11",
+            "month": 9,
+            "day": 11,
+            "passage": "1 Kings 3"
+        },
+        {
+            "id": "09-12",
+            "month": 9,
+            "day": 12,
+            "passage": "1 Kings 4"
+        },
+        {
+            "id": "09-13",
+            "month": 9,
+            "day": 13,
+            "passage": "1 Kings 5"
+        },
+        {
+            "id": "09-14",
+            "month": 9,
+            "day": 14,
+            "passage": "Heb 4:14-5:10"
+        },
+        {
+            "id": "09-15",
+            "month": 9,
+            "day": 15,
+            "passage": "1 Kings 6"
+        },
+        {
+            "id": "09-16",
+            "month": 9,
+            "day": 16,
+            "passage": "1 Kings 7"
+        },
+        {
+            "id": "09-17",
+            "month": 9,
+            "day": 17,
+            "passage": "1 Kings 8"
+        },
+        {
+            "id": "09-18",
+            "month": 9,
+            "day": 18,
+            "passage": "1 Kings 9"
+        },
+        {
+            "id": "09-19",
+            "month": 9,
+            "day": 19,
+            "passage": "1 Kings 10 \u20201-13,23-29"
+        },
+        {
+            "id": "09-20",
+            "month": 9,
+            "day": 20,
+            "passage": "1 Kings 11"
+        },
+        {
+            "id": "09-21",
+            "month": 9,
+            "day": 21,
+            "passage": "Heb 10:19-end"
+        },
+        {
+            "id": "09-22",
+            "month": 9,
+            "day": 22,
+            "passage": "1 Kings 12"
+        },
+        {
+            "id": "09-23",
+            "month": 9,
+            "day": 23,
+            "passage": "1 Kings 13"
+        },
+        {
+            "id": "09-24",
+            "month": 9,
+            "day": 24,
+            "passage": "1 Kings 14"
+        },
+        {
+            "id": "09-25",
+            "month": 9,
+            "day": 25,
+            "passage": "2 Chron 12"
+        },
+        {
+            "id": "09-26",
+            "month": 9,
+            "day": 26,
+            "passage": "2 Chron 13"
+        },
+        {
+            "id": "09-27",
+            "month": 9,
+            "day": 27,
+            "passage": "2 Chron 14"
+        },
+        {
+            "id": "09-28",
+            "month": 9,
+            "day": 28,
+            "passage": "2 Chron 15"
+        },
+        {
+            "id": "09-29",
+            "month": 9,
+            "day": 29,
+            "passage": "Rev 12:7-12"
+        },
+        {
+            "id": "09-30",
+            "month": 9,
+            "day": 30,
+            "passage": "2 Chron 16"
+        },
+        {
+            "id": "10-01",
+            "month": 10,
+            "day": 1,
+            "passage": "1 Kings 15"
+        },
+        {
+            "id": "10-02",
+            "month": 10,
+            "day": 2,
+            "passage": "1 Kings 16"
+        },
+        {
+            "id": "10-03",
+            "month": 10,
+            "day": 3,
+            "passage": "1 Kings 17"
+        },
+        {
+            "id": "10-04",
+            "month": 10,
+            "day": 4,
+            "passage": "1 Kings 18"
+        },
+        {
+            "id": "10-05",
+            "month": 10,
+            "day": 5,
+            "passage": "1 Kings 19"
+        },
+        {
+            "id": "10-06",
+            "month": 10,
+            "day": 6,
+            "passage": "1 Kings 20"
+        },
+        {
+            "id": "10-07",
+            "month": 10,
+            "day": 7,
+            "passage": "1 Kings 21"
+        },
+        {
+            "id": "10-08",
+            "month": 10,
+            "day": 8,
+            "passage": "1 Kings 22"
+        },
+        {
+            "id": "10-09",
+            "month": 10,
+            "day": 9,
+            "passage": "2 Chron 20"
+        },
+        {
+            "id": "10-10",
+            "month": 10,
+            "day": 10,
+            "passage": "2 Kings 1"
+        },
+        {
+            "id": "10-11",
+            "month": 10,
+            "day": 11,
+            "passage": "2 Kings 2"
+        },
+        {
+            "id": "10-12",
+            "month": 10,
+            "day": 12,
+            "passage": "2 Kings 3"
+        },
+        {
+            "id": "10-13",
+            "month": 10,
+            "day": 13,
+            "passage": "2 Kings 4"
+        },
+        {
+            "id": "10-14",
+            "month": 10,
+            "day": 14,
+            "passage": "2 Kings 5"
+        },
+        {
+            "id": "10-15",
+            "month": 10,
+            "day": 15,
+            "passage": "2 Kings 6"
+        },
+        {
+            "id": "10-16",
+            "month": 10,
+            "day": 16,
+            "passage": "2 Kings 7"
+        },
+        {
+            "id": "10-17",
+            "month": 10,
+            "day": 17,
+            "passage": "2 Kings 8"
+        },
+        {
+            "id": "10-18",
+            "month": 10,
+            "day": 18,
+            "passage": "2 John"
+        },
+        {
+            "id": "10-19",
+            "month": 10,
+            "day": 19,
+            "passage": "2 Kings 9"
+        },
+        {
+            "id": "10-20",
+            "month": 10,
+            "day": 20,
+            "passage": "2 Kings 10"
+        },
+        {
+            "id": "10-21",
+            "month": 10,
+            "day": 21,
+            "passage": "2 Kings 11"
+        },
+        {
+            "id": "10-22",
+            "month": 10,
+            "day": 22,
+            "passage": "2 Kings 12"
+        },
+        {
+            "id": "10-23",
+            "month": 10,
+            "day": 23,
+            "passage": "Acts 2:22-end"
+        },
+        {
+            "id": "10-24",
+            "month": 10,
+            "day": 24,
+            "passage": "2 Kings 13"
+        },
+        {
+            "id": "10-25",
+            "month": 10,
+            "day": 25,
+            "passage": "2 Kings 14"
+        },
+        {
+            "id": "10-26",
+            "month": 10,
+            "day": 26,
+            "passage": "2 Chron 26"
+        },
+        {
+            "id": "10-27",
+            "month": 10,
+            "day": 27,
+            "passage": "2 Kings 15"
+        },
+        {
+            "id": "10-28",
+            "month": 10,
+            "day": 28,
+            "passage": "Acts 6:1-7:16"
+        },
+        {
+            "id": "10-29",
+            "month": 10,
+            "day": 29,
+            "passage": "2 Kings 16"
+        },
+        {
+            "id": "10-30",
+            "month": 10,
+            "day": 30,
+            "passage": "2 Kings 17"
+        },
+        {
+            "id": "10-31",
+            "month": 10,
+            "day": 31,
+            "passage": "2 Chron 28"
+        },
+        {
+            "id": "11-01",
+            "month": 11,
+            "day": 1,
+            "passage": "Heb 11:32-12:2"
+        },
+        {
+            "id": "11-02",
+            "month": 11,
+            "day": 2,
+            "passage": "2 Chron 29"
+        },
+        {
+            "id": "11-03",
+            "month": 11,
+            "day": 3,
+            "passage": "2 Chron 30"
+        },
+        {
+            "id": "11-04",
+            "month": 11,
+            "day": 4,
+            "passage": "2 Kings 18"
+        },
+        {
+            "id": "11-05",
+            "month": 11,
+            "day": 5,
+            "passage": "2 Kings 19"
+        },
+        {
+            "id": "11-06",
+            "month": 11,
+            "day": 6,
+            "passage": "2 Kings 20"
+        },
+        {
+            "id": "11-07",
+            "month": 11,
+            "day": 7,
+            "passage": "2 Chron 33"
+        },
+        {
+            "id": "11-08",
+            "month": 11,
+            "day": 8,
+            "passage": "2 Kings 21"
+        },
+        {
+            "id": "11-09",
+            "month": 11,
+            "day": 9,
+            "passage": "2 Kings 22"
+        },
+        {
+            "id": "11-10",
+            "month": 11,
+            "day": 10,
+            "passage": "2 Kings 23"
+        },
+        {
+            "id": "11-11",
+            "month": 11,
+            "day": 11,
+            "passage": "2 Kings 24"
+        },
+        {
+            "id": "11-12",
+            "month": 11,
+            "day": 12,
+            "passage": "2 Kings 25"
+        },
+        {
+            "id": "11-13",
+            "month": 11,
+            "day": 13,
+            "passage": "Judith 4"
+        },
+        {
+            "id": "11-14",
+            "month": 11,
+            "day": 14,
+            "passage": "Judith 8"
+        },
+        {
+            "id": "11-15",
+            "month": 11,
+            "day": 15,
+            "passage": "Judith 9"
+        },
+        {
+            "id": "11-16",
+            "month": 11,
+            "day": 16,
+            "passage": "Judith 10"
+        },
+        {
+            "id": "11-17",
+            "month": 11,
+            "day": 17,
+            "passage": "Judith 11"
+        },
+        {
+            "id": "11-18",
+            "month": 11,
+            "day": 18,
+            "passage": "Judith 12"
+        },
+        {
+            "id": "11-19",
+            "month": 11,
+            "day": 19,
+            "passage": "Judith 13"
+        },
+        {
+            "id": "11-20",
+            "month": 11,
+            "day": 20,
+            "passage": "Judith 14"
+        },
+        {
+            "id": "11-21",
+            "month": 11,
+            "day": 21,
+            "passage": "Judith 15"
+        },
+        {
+            "id": "11-22",
+            "month": 11,
+            "day": 22,
+            "passage": "Judith 16"
+        },
+        {
+            "id": "11-23",
+            "month": 11,
+            "day": 23,
+            "passage": "Ecclesiasticus 1"
+        },
+        {
+            "id": "11-24",
+            "month": 11,
+            "day": 24,
+            "passage": "Ecclesiasticus 2"
+        },
+        {
+            "id": "11-25",
+            "month": 11,
+            "day": 25,
+            "passage": "Ecclesiasticus 4"
+        },
+        {
+            "id": "11-26",
+            "month": 11,
+            "day": 26,
+            "passage": "Ecclesiasticus 6"
+        },
+        {
+            "id": "11-27",
+            "month": 11,
+            "day": 27,
+            "passage": "Ecclesiasticus 7"
+        },
+        {
+            "id": "11-28",
+            "month": 11,
+            "day": 28,
+            "passage": "Ecclesiasticus 9"
+        },
+        {
+            "id": "11-29",
+            "month": 11,
+            "day": 29,
+            "passage": "Ecclesiasticus 10"
+        },
+        {
+            "id": "11-30",
+            "month": 11,
+            "day": 30,
+            "passage": "Ecclesiasticus 11"
+        },
+        {
+            "id": "12-01",
+            "month": 12,
+            "day": 1,
+            "passage": "Ecclesiasticus 14"
+        },
+        {
+            "id": "12-02",
+            "month": 12,
+            "day": 2,
+            "passage": "Ecclesiasticus 17"
+        },
+        {
+            "id": "12-03",
+            "month": 12,
+            "day": 3,
+            "passage": "Ecclesiasticus 18"
+        },
+        {
+            "id": "12-04",
+            "month": 12,
+            "day": 4,
+            "passage": "Ecclesiasticus 21"
+        },
+        {
+            "id": "12-05",
+            "month": 12,
+            "day": 5,
+            "passage": "Ecclesiasticus 34"
+        },
+        {
+            "id": "12-06",
+            "month": 12,
+            "day": 6,
+            "passage": "Ecclesiasticus 38"
+        },
+        {
+            "id": "12-07",
+            "month": 12,
+            "day": 7,
+            "passage": "Ecclesiasticus 39"
+        },
+        {
+            "id": "12-08",
+            "month": 12,
+            "day": 8,
+            "passage": "Ecclesiasticus 44"
+        },
+        {
+            "id": "12-09",
+            "month": 12,
+            "day": 9,
+            "passage": "Ecclesiasticus 45"
+        },
+        {
+            "id": "12-10",
+            "month": 12,
+            "day": 10,
+            "passage": "Ecclesiasticus 46"
+        },
+        {
+            "id": "12-11",
+            "month": 12,
+            "day": 11,
+            "passage": "Ecclesiasticus 47"
+        },
+        {
+            "id": "12-12",
+            "month": 12,
+            "day": 12,
+            "passage": "Ecclesiasticus 48"
+        },
+        {
+            "id": "12-13",
+            "month": 12,
+            "day": 13,
+            "passage": "Ecclesiasticus 49"
+        },
+        {
+            "id": "12-14",
+            "month": 12,
+            "day": 14,
+            "passage": "Ecclesiasticus 50"
+        },
+        {
+            "id": "12-15",
+            "month": 12,
+            "day": 15,
+            "passage": "Ecclesiasticus 51"
+        },
+        {
+            "id": "12-16",
+            "month": 12,
+            "day": 16,
+            "passage": "Wisdom 1"
+        },
+        {
+            "id": "12-17",
+            "month": 12,
+            "day": 17,
+            "passage": "Wisdom 2"
+        },
+        {
+            "id": "12-18",
+            "month": 12,
+            "day": 18,
+            "passage": "Wisdom 3"
+        },
+        {
+            "id": "12-19",
+            "month": 12,
+            "day": 19,
+            "passage": "Wisdom 4"
+        },
+        {
+            "id": "12-20",
+            "month": 12,
+            "day": 20,
+            "passage": "Wisdom 5"
+        },
+        {
+            "id": "12-21",
+            "month": 12,
+            "day": 21,
+            "passage": "Rev 13"
+        },
+        {
+            "id": "12-22",
+            "month": 12,
+            "day": 22,
+            "passage": "Wisdom 6"
+        },
+        {
+            "id": "12-23",
+            "month": 12,
+            "day": 23,
+            "passage": "Wisdom 7"
+        },
+        {
+            "id": "12-24",
+            "month": 12,
+            "day": 24,
+            "passage": "Wisdom 8"
+        },
+        {
+            "id": "12-25",
+            "month": 12,
+            "day": 25,
+            "passage": "Isa 9:1-8"
+        },
+        {
+            "id": "12-26",
+            "month": 12,
+            "day": 26,
+            "passage": "Acts 6:8-7:6, 7:44-60"
+        },
+        {
+            "id": "12-27",
+            "month": 12,
+            "day": 27,
+            "passage": "Rev 19"
+        },
+        {
+            "id": "12-28",
+            "month": 12,
+            "day": 28,
+            "passage": "Jer 31:1-17"
+        },
+        {
+            "id": "12-29",
+            "month": 12,
+            "day": 29,
+            "passage": "Wisdom 9"
+        },
+        {
+            "id": "12-30",
+            "month": 12,
+            "day": 30,
+            "passage": "Wisdom 10"
+        },
+        {
+            "id": "12-31",
+            "month": 12,
+            "day": 31,
+            "passage": "Wisdom 11"
+        }
+    ]
+}
